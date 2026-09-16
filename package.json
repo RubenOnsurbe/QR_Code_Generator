@@ -1,0 +1,23 @@
+{
+  "name": "qr-rdev",
+  "version": "1.0.0",
+  "description": "QR-RDEV: Generate permanent and customizable QR codes directly in your browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenOnsurbe/QR_Code_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenOnsurbe/QR_Code_Generator/issues"
+  },
+  "homepage": "https://github.com/RubenOnsurbe/QR_Code_Generator#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
